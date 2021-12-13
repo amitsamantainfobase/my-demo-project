@@ -1,3 +1,7 @@
+print("Hello world")
+
+print("Good bye!")
+
 # Program implementing the Binary Search
 def binary_search(array, target):
     beg = 0
